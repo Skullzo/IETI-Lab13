@@ -12,6 +12,6 @@
 
 ## License and Copyrights
 
-**©** Alejandro Toro Daza, Jonathan Fabián Páez Torres. Systems Engineering students of the [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/).
+**©** Alejandro Toro Daza. Systems Engineering student of the [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/).
 
 Licensed under the [GNU General Public License](https://github.com/Skullzo/IETI-Lab13/blob/main/LICENSE).
